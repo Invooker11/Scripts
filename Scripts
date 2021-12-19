@@ -1,8 +1,8 @@
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Invooker11/Koblox-and-Headless/main/Headless", true))() -- Headless
 
-	loadstring(game:HttpGet("https://github.com/Invooker11/Koblox-and-Headless/blob/main/Left%20leg", true))() -- Left Leg
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Invooker11/Koblox-and-Headless/main/Left%20leg", true))() -- Left Leg
 
-	loadstring(game:HttpGet("https://github.com/Invooker11/Koblox-and-Headless/blob/main/Right%20Leg", true))() -- Right Leg
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Invooker11/Koblox-and-Headless/main/Right%20Leg", true))() -- Right Leg
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Invooker11/Shit-script/main/Da%20Hood%20Gun%20Skin", true))() -- Gun Skin
 
